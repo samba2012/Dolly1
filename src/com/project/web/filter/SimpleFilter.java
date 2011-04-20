@@ -1,0 +1,5 @@
+package com.project.web.filter;
+
+public class SimpleFilter {
+
+}
